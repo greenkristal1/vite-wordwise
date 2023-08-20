@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "country": "Spain",
+      "cityName": "Getafe",
+      "emoji": "🇪🇸",
+      "date": "2023-08-06T15:10:15.680Z",
+      "notes": "",
+      "position": {
+        "lat": "40.314629607698755",
+        "lng": "-3.691517604712492"
+      },
+      "id": 1
+    },
+    {
+      "country": "Switzerland",
+      "cityName": "Baltschieder",
+      "emoji": "🇨🇭",
+      "date": "2023-08-06T15:10:25.105Z",
+      "notes": "dssf",
+      "position": {
+        "lat": "46.37787430512013",
+        "lng": "7.864726208000055"
+      },
+      "id": 2
+    },
+    {
+      "country": "Spain",
+      "cityName": "Zaragoza",
+      "emoji": "🇪🇸",
+      "date": "2023-08-06T17:44:14.751Z",
+      "notes": "",
+      "position": {
+        "lat": "41.54268671741482",
+        "lng": "-0.5292367801124455"
+      },
+      "id": 5
+    },
+    {
+      "country": "Russian Federation (the)",
+      "cityName": "Sigayevo",
+      "emoji": "🇷🇺",
+      "date": "2023-08-08T20:32:24.315Z",
+      "notes": "",
+      "position": {
+        "lat": "56.54808580496743",
+        "lng": "53.63525390625001"
+      },
+      "id": 6
+    }
+  ]
+}
